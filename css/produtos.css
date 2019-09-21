@@ -1,5 +1,5 @@
 .inner-products {
-  background: url('../img/bg-produtos.jpg') no-repeat center;
+  background: url("../img/bg-produtos.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -11,7 +11,7 @@
   color: #fff;
   font-size: 36px;
   text-transform: uppercase;
-  letter-spacing: .1em;
+  letter-spacing: 0.1em;
   font-weight: bold;
   position: relative;
   bottom: 170px;
@@ -95,7 +95,7 @@
 .budget-form label {
   display: block;
   color: #fff;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 25px;
   margin-bottom: 4px;
@@ -111,7 +111,7 @@
   margin-bottom: 10px;
   outline: none;
   font-size: 14px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .budget-form textarea {
@@ -125,7 +125,7 @@
   margin-bottom: 20px;
   outline: none;
   font-size: 14px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .budget-form button {
@@ -154,7 +154,7 @@
   display: block;
   font-size: 18px;
   line-height: 30px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .budget-data p {
@@ -166,7 +166,7 @@
 }
 
 .budget-data ul li {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
   padding: 10px 15px;
 }
