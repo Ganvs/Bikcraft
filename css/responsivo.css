@@ -2,7 +2,6 @@
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   /* Qualidade */
   .quality .container::after {
-    width: 634px;
     right: 66px;
   }
 
@@ -56,8 +55,22 @@
   /* INTRODUÇÃO */
   .introduction {
     margin-top: 0;
-    padding-top: 20px;
+    padding-top: 40px;
     background: url("../img/bg-mobile.jpg") no-repeat center;
     background-size: cover;
+  }
+
+  .introduction h1 {
+    font-size: 36px;
+  }
+
+  /* Call to action */
+  .call {
+    padding-top: 10px;
+  }
+
+  /* Qualidade */
+  .quality .container::after {
+    display: none;
   }
 }
