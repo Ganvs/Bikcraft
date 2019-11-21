@@ -1,5 +1,6 @@
 /*Estilo para tables*/
 @media only screen and (min-width: 768px) and (max-width: 959px) {
+  /* Qualidade */
   .quality .container::after {
     width: 634px;
     right: 66px;
@@ -7,6 +8,17 @@
 
   .quality-list li {
     padding: 0 10px;
+  }
+
+  /* Footer */
+  .footer-social ul li a {
+    padding: 6px;
+    transition: all 0.5s ease;
+  }
+
+  .footer-social ul li a img {
+    width: 26px;
+    height: 26px;
   }
 }
 
