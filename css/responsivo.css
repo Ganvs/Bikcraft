@@ -29,6 +29,17 @@
   .product-icon {
     padding: 41px 0;
   }
+
+  .product-info p {
+    font-size: 14px;
+    line-height: 20px;
+    height: 122px;
+    padding: 30px 30px;
+  }
+
+  .product-info ul li {
+    width: 181px;
+  }
 }
 
 /*Estilo para smartphones*/
