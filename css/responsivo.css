@@ -147,4 +147,10 @@
   .budget-data ul {
     padding-right: 0;
   }
+
+  /* Contato */
+  .contact-form {
+    padding-right: 0;
+    margin-bottom: 40px;
+  }
 }
