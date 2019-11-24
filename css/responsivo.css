@@ -19,6 +19,16 @@
     width: 26px;
     height: 26px;
   }
+
+  /* Produtos */
+  .product-item h2 {
+    bottom: 140px;
+    margin-bottom: -56px;
+  }
+
+  .product-icon {
+    padding: 41px 0;
+  }
 }
 
 /*Estilo para smartphones*/
