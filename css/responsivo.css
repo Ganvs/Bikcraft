@@ -52,6 +52,10 @@
     border-color: #fff;
   }
 
+  .header-menu ul li a.active-menu {
+    border-color: #fff;
+  }
+
   /* INTRODUÇÃO */
   .introduction {
     margin-top: 0;
@@ -64,6 +68,11 @@
     font-size: 36px;
   }
 
+  /* INTRODUÇÃO INTERNA */
+  .inner-introduction {
+    margin-top: 0;
+  }
+
   /* Call to action */
   .call {
     padding-top: 10px;
@@ -72,5 +81,17 @@
   /* Qualidade */
   .quality .container::after {
     display: none;
+  }
+
+  /* Sobre */
+  .mission p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 0;
+  }
+
+  .mission ul li {
+    font-size: 14px;
+    line-height: 30px;
   }
 }
